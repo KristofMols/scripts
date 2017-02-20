@@ -9,4 +9,4 @@ Simple Linux script that does a basic healthcheck of the system:
 - Disk usage
 
 ## eZServerMonitor
-eZServerMonitor script [source](ezservermonitor.com)
+eZServerMonitor script ([source](ezservermonitor.com))
