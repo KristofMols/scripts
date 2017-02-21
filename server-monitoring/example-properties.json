@@ -1,0 +1,9 @@
+{
+    "hosts": [
+        "google.com"
+    ],
+    "services": {
+        "LDAP": { "port": "389", "host": "127.0.0.1" },
+        "MySQL": { "port": "3306", "host": "127.0.0.1" }
+    }
+}
