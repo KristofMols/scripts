@@ -10,3 +10,6 @@ Simple Linux script that does a basic healthcheck of the system:
 
 ## eZServerMonitor
 eZServerMonitor script ([source](ezservermonitor.com))
+
+## server-monitoring
+Extensible script that currently checks a variety of ports / hosts configured in a properties file.
